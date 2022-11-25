@@ -4495,11 +4495,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 1086147944030362421, guid: 280731f3476c34f44ac4f8369b1c22fa, type: 3}
+    - target: {fileID: 0}
       propertyPath: m_Actions
       value: 
       objectReference: {fileID: -944628639613478452, guid: 8dc7976787d405c41ada78eeeb563d9b, type: 3}
-    - target: {fileID: 1086147944030362421, guid: 280731f3476c34f44ac4f8369b1c22fa, type: 3}
+    - target: {fileID: 0}
       propertyPath: m_DefaultActionMap
       value: Player
       objectReference: {fileID: 0}
